@@ -1,6 +1,6 @@
 /*
 Project county library
-Author: Ryan towett
+Author: leon meingati
 Date: 02/03/2022
 compiler: GNU GCC
 Language: C
